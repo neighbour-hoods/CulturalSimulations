@@ -9,9 +9,9 @@ Sample files are included in this folder.
 * The final results will be exported into a excel file titled "export" 
 
 
-## Details File
+## ReputationDetails File
 
-The details file has three sheets, Congruency, Details, and Initial Reputations
+The ReputationDetails file has three sheets, Congruency, Details, and Initial Reputations
 
 ### Congruency
 * This sheet controls how different ecosystems are weighted by each other
